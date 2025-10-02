@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv>
+  <!-- Channel Definition -->
+  <channel id="dummy020">
+    <display-name>RedBull TV</display-name>
+  </channel>
+  <channel id="dummy021">
+    <display-name>GoPro TV</display-name>
+  </channel>
+  <channel id="dummy022">
+    <display-name>Rally TV</display-name>
+  </channel>
+  <channel id="dummy023">
+    <display-name>Unifi Sport 1</display-name>
+  </channel>
+  <channel id="dummy024">
+    <display-name>Fuel TV</display-name>
+  </channel>
+  <channel id="dummy025">
+    <display-name>Sky Sports</display-name>
+  </channel>
+  <channel id="dummy026">
+    <display-name>Sky Sports LaLiga</display-name>
+  </channel>
+  <channel id="dummy027">
+    <display-name>Sky Sports Bundesliga</display-name>
+  </channel>
+  <channel id="dummy028">
+    <display-name>SPOTV 1</display-name>
+  </channel>
+  <channel id="dummy029">
+    <display-name>SPOTV 2</display-name>
+  </channel>
+  <channel id="dummy030">
+    <display-name>Spectrum Sportsnet Dodgers</display-name>
+  </channel>
+  <channel id="dummy031">
+    <display-name>Spectrum Sportsnet Lakers</display-name>
+  </channel>     
+
+  <programme channel="dummy020" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>RedBull TV</title>
+	<sub-title>All day long live events and video</sub-title>
+    <desc>Red Bull TV brings you beyond the ordinary live events and videos featuring inspirational stories covering sports, music, and lifestyle entertainment. Anytime, anywhere. Red Bull TV allows you to enjoy unrivaled access to sports events, esports, music festivals, films, videos, documentaries, and shows from locations that span the globe.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy021" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>GoPro TV</title>
+	<sub-title>Video on demand</sub-title>
+    <desc>Viewers can watch featured playlists - from surf to skate, music to moto and beyond. Watch the latest GoPro video content across more than 20 playlists, delivering the best HERO videos with jaw-dropping POV angles, close encounters with endangered species, adventures to the remotest parts of the earth and much more.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy022" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>Rally TV</title>
+	<sub-title>Rally Live and Vod Events</sub-title>
+    <desc>WRC is an international rallying series owned and governed by the FIA. Each season lasts one calendar year, and typically consists of 13 (3/4 days) rally events driven on deffent surfaces split into 15–25 special stages which are run against the clock on closed roads.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy023" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>Unifi Sport 1</title>
+	<sub-title>All day long live events and videos</sub-title>
+    <desc>Dive into the exhilaration, thrills and spills of F1, MotoGP, UFC, UEFA Champions League, Bundesliga, Tennis Grand Slams and other premium sports.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy024" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>Fuel TV</title>
+	<sub-title>Live events and videos</sub-title>
+    <desc>FUEL TV is the global home of action sports. Available in more than 100 countries worldwide, FUEL TV is the only channel focused exclusively on the sports, cultures, and lifestyles of Surf, Skate, Snow, BMX, and MTB, and the art, music, and fashion that define them. Headquartered in Lisbon, Portugal, FUEL TV has offices in LA, Miami, São Paulo, Beijing, and Melbourne.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy025" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>SKY Sports</title>
+	<sub-title>Eventos deportivos en vivo y bajo demanda</sub-title>
+    <desc>Con base en Mexico, SKY Sports les brida encuentros de football, tennis, baseball y baloncesto para su entretenimiento.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy026" start="20250923123000 +0000" stop="20350101000000 +0000">
+aLiga	<sub-title>Eventos deportivos en vivo y bajo demanda</sub-title>
+    <desc>Con base en Mexico, SKY Sports les brida encuentros de football de LaLiga para su entretenimiento.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy027" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>SKY Sports Bundesliga</title>
+	<sub-title>Eventos deportivos en vivo y bajo demanda</sub-title>
+    <desc>Con base en Mexico, SKY Sports les brida encuentros de football de la Bundesliga para su entretenimiento.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy028" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>SPOTV 1</title>
+	<sub-title>All day long live events and videos</sub-title>
+    <desc>SPOTV brings South Korea’s number one linear and digital sports service to Southeast Asia. We revolutionise your sports experience with world-class sports entertainment and seek to be an inclusive and dynamic platform that profoundly engages the Asian sports fan.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy029" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>SPOTV 2</title>
+	<sub-title>All day long live events and videos</sub-title>
+    <desc>SPOTV brings South Korea’s number one linear and digital sports service to Southeast Asia. We revolutionise your sports experience with world-class sports entertainment and seek to be an inclusive and dynamic platform that profoundly engages the Asian sports fan.
+	</desc>
+  </programme>
+
+  <programme channel="dummy030" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>Spectrum Sportsnet Dodgers</title>
+	<sub-title>Brodcasts of live games</sub-title>
+    <desc>Spectrum Sportsnet Dodgers brings live brodasts of Dodgers games and when idle, brodcast games of AAA afiliate, Oklahoma City Comets.  Also you can have analysis and interviews in Access Sports Dodgers.
+	</desc>
+  </programme>
+  
+  <programme channel="dummy031" start="20250923123000 +0000" stop="20350101000000 +0000">
+    <title>Spectrum Sportsnet Lakers</title>
+	<sub-title>Brodcasts of live games</sub-title>
+    <desc>Spectrum Sportsnet Dodgers brings live brodasts of Lakers games and WNBA Los Angeles Sparks brodcast games.  Also you can have analysis and interviews in Access Sports Lakers.
+	</desc>
+  </programme>
+
+</tv>
