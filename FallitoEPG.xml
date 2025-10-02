@@ -97,13 +97,13 @@ aLiga	<sub-title>Eventos deportivos en vivo y bajo demanda</sub-title>
     <desc>SPOTV brings South Korea’s number one linear and digital sports service to Southeast Asia. We revolutionise your sports experience with world-class sports entertainment and seek to be an inclusive and dynamic platform that profoundly engages the Asian sports fan.
 	</desc>
   </programme>
-  <programme channel="dummy030" start="20250923123000 +0000" stop="20350101000000 +0000">
+  <programme channel="dummy030" start="20250101000000 +0000" stop="20350101000000 +0000">
     <title>Spectrum Sportsnet Dodgers</title>
 	<sub-title>Brodcasts of live games</sub-title>
     <desc>Spectrum Sportsnet Dodgers brings live brodasts of Dodgers games and when idle, brodcast games of AAA afiliate, Oklahoma City Comets.  Also you can have analysis and interviews in Access Sports Dodgers.
 	</desc>
   </programme>
-  <programme channel="dummy031" start="20250923123000 +0000" stop="20350101000000 +0000">
+  <programme channel="dummy031" start="20251002113000 +0000" stop="20350101000000 +0000">
     <title>Spectrum Sportsnet Lakers</title>
 	<sub-title>Brodcasts of live games</sub-title>
     <desc>Spectrum Sportsnet Dodgers brings live brodasts of Lakers games and WNBA Los Angeles Sparks brodcast games.  Also you can have analysis and interviews in Access Sports Lakers.
